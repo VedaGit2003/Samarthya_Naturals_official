@@ -47,7 +47,7 @@ app.use('*',function(req,res){
     res.sendFile(path.join(__dirname,'./client/build/index.html'))
 })
 
-const PORT=process.env.PORT || 8080 || 8000
+const PORT=process.env.PORT || 8000
 
 app.listen(PORT,()=>{
     console.log(`server running on PORT ${PORT} and mode is ${process.env.DEV_MODE}`)
