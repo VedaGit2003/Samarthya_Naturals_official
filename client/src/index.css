@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,700&family=Poppins:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+/* //  font-family: "Playfair Display", serif; */
+/* font-family: "Poppins", sans-serif; */
+/* font-family: "Madimi One", sans-serif; */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* .navbar{
+  font-family: "Poppins", sans-serif;
+  font-size: 17px;
+  line-height: 26px;
+  text-transform: uppercase;
+  box-shadow: 0 6px 6px -6px rgb(133, 100, 234);
+  --webkit-box-shadow:0 6px 6px -6px rgb(133, 100, 234);
+  border-bottom: 0.3px solid rgb(133, 100, 234) !important;
+} */
+/* #company-name{
+  text-transform: none;
+  font-weight: bold;
+  font-size: 26px;
+  font-family: "Madimi One", sans-serif;
+  color: rgb(133, 100, 234);
+}
+.nav-link{
+  font-weight: 300 !important;
+}
+.active{
+  border-bottom: 2px solid rgb(133, 100, 234);
+  background-color: rgb(238, 238, 238);
+  font-weight: bolder;
+} */
+/* ==========Register Page=========== */
+.register{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  flex-direction: column;
+}
+.register form{
+  padding: 2%;
+   border: 2px solid rgb(133, 100, 234);
+   border-radius: 3%;
+   -webkit-box-shadow: 21px 25px 35px 0px rgba(217,182,217,1);
+   -moz-box-shadow: 21px 25px 35px 0px rgba(217,182,217,1);
+   box-shadow: 21px 25px 35px 0px rgba(217,182,217,1);
+}
+
+/* ============Login Page========== */
+.login{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  flex-direction: column;
+}
+.login form{
+  padding: 2%;
+  /* border: 2px solid rgb(133, 100, 234); */
+  border-radius: 3%;
+  -webkit-box-shadow: 21px 25px 35px 0px rgba(217,182,217,1);
+  -moz-box-shadow: 21px 25px 35px 0px rgba(217,182,217,1);
+  box-shadow: 21px 25px 35px 0px rgba(217,182,217,1);
+}

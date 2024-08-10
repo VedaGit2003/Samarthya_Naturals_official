@@ -1,0 +1,57 @@
+/* .hero__categories {
+    position: relative;
+  } */
+  
+  .btn-secondary {
+    background-color: #7fad39;
+    border: none;
+    color: #fff;
+    font-weight: 700;
+    padding: 4%;
+    margin-left: 3vw;
+    width: 20vw;
+  }
+  
+  .dropdown-menu {
+    background: #ffffff;
+    border: 1px solid #ebebeb;
+    padding-left: 0;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    margin: 0;
+    width: 20vw;
+  }
+  .checkbox-container {
+    display: flex; /* Flexbox for side-by-side alignment */
+    /* align-items: center; */
+    justify-content: space-between;
+    gap:2px; /* Center align items vertically */
+}
+.category-name{
+    margin-right: 9vw;
+    text-align: center;
+}
+  
+  .dropdown-item {
+    font-size: 16px;
+    color: #1c1c1c;
+    line-height: 39px;
+    display: block;
+    text-decoration: none;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .btn-secondary::after {
+    content: "";
+    font-family: "ElegantIcons";
+    font-size: 18px;
+    color: #ffffff;
+    margin-left: 10px;
+  }
+  @media (max-width:600px){
+    .btn-secondary{width: 90vw;    margin-left: 0vw;}
+    .dropdown-menu{width: 90vw;}
+  }
