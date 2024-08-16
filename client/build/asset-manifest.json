@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d79c91c.css",
+    "main.js": "/static/js/main.d5a455fb.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/V3.mp4": "/static/media/V3.11f8bcd0dbc42f27b158.mp4",
+    "static/media/WelCome_Samarthya.mp4": "/static/media/WelCome_Samarthya.7e0f18f6cdc5dbb28ad4.mp4",
+    "static/media/demo1.png": "/static/media/demo1.e728d3b0ed97bee29dd0.png",
+    "static/media/vermi.png": "/static/media/vermi.3aad0b8d6e8ceadfa79e.png",
+    "static/media/CHEMICAL_FREE.png": "/static/media/CHEMICAL_FREE.4f69a9231d318140921e.png",
+    "static/media/logo.png": "/static/media/logo.9cdbf8ecebc88830648d.png",
+    "index.html": "/index.html",
+    "main.7d79c91c.css.map": "/static/css/main.7d79c91c.css.map",
+    "main.d5a455fb.js.map": "/static/js/main.d5a455fb.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d79c91c.css",
+    "static/js/main.d5a455fb.js"
+  ]
+}
